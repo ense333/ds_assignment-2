@@ -1,0 +1,120 @@
+===== LOAD =====
+Success
+==================
+
+========PRINT_BP========
+1000/200/kacey kil/2000/0
+1802/400/iuye wki/1998/0
+1803/400/iuye wki/1998/0
+akkk/200/kiue erk/2001/0
+asia/000/john/1990/0
+book/300/risa/2000/0
+casd/300/wqeqw wq/2000/0
+cdiu/200/kiw we/2001/0
+educated/000/Tara Westover/2018/0
+eucated/000/Tara Westover/2018/0
+wqe we/200/qweewq wq/2001/0
+========================
+
+========ADD========
+to Kill a Monchingbird/100/Harper Lee/1960
+===================
+
+========SEARCH_BP========
+educated/000/Tara Westover/2018/0
+=========================
+
+========ADD========
+to Kill a Monchingbird/100/Harper Lee/1960
+===================
+
+=========ERROR=========
+200
+=======================
+
+========PRINT_BP========
+1000/200/kacey kil/2000/0
+1802/400/iuye wki/1998/0
+1803/400/iuye wki/1998/0
+akkk/200/kiue erk/2001/0
+asia/000/john/1990/0
+book/300/risa/2000/0
+casd/300/wqeqw wq/2000/0
+cdiu/200/kiw we/2001/0
+educated/000/Tara Westover/2018/0
+eucated/000/Tara Westover/2018/0
+to Kill a Monchingbird/100/Harper Lee/1960/1
+wqe we/200/qweewq wq/2001/0
+========================
+
+========ADD========
+educated/000/Tara Westover/2018
+===================
+
+========ADD========
+educated/000/Tara Westover/2018
+===================
+
+========SEARCH_BP========
+educated/000/Tara Westover/2018/2
+=========================
+
+========SEARCH_BP========
+educated/000/Tara Westover/2018/2
+=========================
+
+========ADD========
+to Kill a Monchingbird/100/Harper Lee/1960
+===================
+
+========SEARCH_BP========
+akkk/200/kiue erk/2001/0
+asia/000/john/1990/0
+book/300/risa/2000/0
+=========================
+
+=========ERROR=========
+500
+=======================
+
+========ADD========
+educated/000/Tara Westover/2018
+===================
+
+========PRINT_ST========
+educated/000/Tara Westover/2018/3
+========================
+
+========ADD========
+asia/000/john/1990
+===================
+
+========ADD========
+asia/000/john/1990
+===================
+
+========ADD========
+asia/000/john/1990
+===================
+
+========PRINT_ST========
+asia/000/john/1990/3
+educated/000/Tara Westover/2018/3
+========================
+
+===== DELETE =====
+Success
+==================
+
+=========ERROR=========
+500
+=======================
+
+========PRINT_ST========
+educated/000/Tara Westover/2018/3
+========================
+
+===== EXIT =====
+Success
+==================
+

@@ -1,0 +1,24 @@
+LOAD
+PRINT_BP
+ADD	to Kill a Monchingbird	100	Harper Lee	1960
+SEARCH_BP	educated
+ADD	to Kill a Monchingbird	100	Harper Lee	1960
+ADD	to Kill a Monchingbird	100	Harper Lee	
+PRINT_BP
+ADD	educated	000	Tara Westover	2018
+ADD	educated	000	Tara Westover	2018
+SEARCH_BP	educated
+SEARCH_BP	educated
+ADD	to Kill a Monchingbird	100	Harper Lee	1960
+SEARCH_BP	a	b
+PRINT_ST	100
+ADD	educated	000	Tara Westover	2018
+PRINT_ST	000
+ADD	asia	000	john	1990
+ADD	asia	000	john	1990
+ADD	asia	000	john	1990
+PRINT_ST	000
+DELETE
+PRINT_ST	100
+PRINT_ST	000
+EXIT
